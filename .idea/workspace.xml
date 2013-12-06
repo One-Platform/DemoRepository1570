@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a22d1ad-0298-4359-8625-b5a8bd5cda1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4a22d1ad-0298-4359-8625-b5a8bd5cda1f" name="Default" comment="" />
     <ignored path="DemoRepository1570.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4a22d1ad-0298-4359-8625-b5a8bd5cda1f" time="1386311529744" ignored="false" />
+    <file path="/Dummy.txt" changelist="4a22d1ad-0298-4359-8625-b5a8bd5cda1f" time="1386312926000" ignored="false" />
     <file path="/HelloWorld.java" changelist="4a22d1ad-0298-4359-8625-b5a8bd5cda1f" time="1386299107662" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,10 +93,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/java/com/sinosoft/one/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="194" selection-end="194" vertical-scroll-proportion="0.20242214">
+            <state line="9" column="17" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Company.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/java/com/sinosoft/one/Company.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="20" selection-start="197" selection-end="197" vertical-scroll-proportion="0.20242214">
               <folding />
             </state>
           </provider>
@@ -424,7 +431,11 @@
       <created>1386311533783</created>
       <updated>1386311533783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加Company类">
+      <created>1386312929281</created>
+      <updated>1386312929281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -500,7 +511,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加User类" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加Company类" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -517,6 +528,7 @@
     <MESSAGE value="增加 helloworld" />
     <MESSAGE value="增加Test" />
     <MESSAGE value="增加User类" />
+    <MESSAGE value="增加Company类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -563,7 +575,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/java/com/sinosoft/one/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="194" selection-end="194" vertical-scroll-proportion="0.20242214">
+        <state line="9" column="17" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/java/com/sinosoft/one/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="197" selection-end="197" vertical-scroll-proportion="0.20242214">
           <folding />
         </state>
       </provider>
