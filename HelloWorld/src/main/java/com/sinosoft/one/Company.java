@@ -24,7 +24,7 @@ public class Company {
         return address;
     }
 
-    //public void setAddress(String address) {
-   //     this.address = address;
-   // }
+    public void setAddress(String address) {
+        this.address = address;
+    }
 }
