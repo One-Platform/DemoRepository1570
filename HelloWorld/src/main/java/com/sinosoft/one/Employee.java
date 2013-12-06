@@ -8,4 +8,8 @@ package com.sinosoft.one;
  * To change this template use File | Settings | File Templates.
  */
 public class Employee {
+
+
+    private  int age;
+
 }
